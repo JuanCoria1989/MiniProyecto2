@@ -13,7 +13,7 @@ if nom1== nom2:
 
 
 
-# Versionando con GitHub agosto 2022
+#lista=[]
 
 def puntajeDardo1():
     puntaje1=501
