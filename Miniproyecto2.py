@@ -13,7 +13,7 @@ if nom1== nom2:
 
 
 
-#lista=[]
+#lista=[] Probando clonacion con Github agosto 2022
 
 def puntajeDardo1():
     puntaje1=501
